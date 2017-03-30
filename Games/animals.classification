@@ -1,0 +1,41 @@
+0,1,6,Pick one of these animals: Horse; Cow; Sheep; Pig; Dog; Cat; Lion; Tiger; Whale; Dolphin; Seal; Penguin; Ostrich; Sparrow; Spider; Ant; Bee; Wasp; Termite; Octopus; Squid.\nAnswer each question with either “yes” or “no”.\nIs it a bird?
+1,2,3,Can it fly?
+2,-,-,Sparrow
+3,4,5,Does it live in antartica?
+4,-,-,Penguin
+5,-,-,Ostrich
+6,7,16,Is it an insect?
+7,8,11,Can it fly?
+8,9,10,Does it die when it stings you?
+9,-,-,Bee
+10,-,-,Wasp
+11,12,13,Does it eat wood?
+12,-,-,Termite
+13,14,15,Does it make webs?
+14,-,-,Spider
+15,-,-,Ant
+16,17,26,Is it a sea animal?
+17,18,21,Does it have tenticals?
+18,19,20,Does it have blue ink?
+19,-,-,Squid
+20,-,-,Octopus
+21,23,22,Does it have a blow hole?
+22,-,-,Seal
+23,24,25,Is it really big?
+24,-,-,Whale
+25,-,-,Dolphin
+26,27,32,Is it farmed by humans?
+27,28,29,Deos it have wool?
+28,-,-,Sheep
+29,30,31,Do humans drink its milk?
+30,-,-,Cow
+31,-,-,Pig
+32,33,34,Was it used as transportation?
+33,-,-,Horse
+34,35,38,Is it a pet?
+35,36,37,Does it play fetch?
+36,-,-,Dog
+37,-,-,Cat
+38,39,40,Does it have stripes?
+39,-,-,Tiger
+40,-,-,Lion
